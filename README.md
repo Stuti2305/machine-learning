@@ -138,7 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👥 Authors
 
-- Your Name - *Initial work* - [YourGitHub](https://github.com/stuti2305)
+- Your Name - *Initial work* - [stuti2305](https://github.com/stuti2305)
 
 ## 🙏 Acknowledgments
 
