@@ -148,6 +148,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📧 Contact
 
-Your Name - [@stuti](https://twitter.com/stuti) - email@example.com
+Your Name - [@stuti](https://twitter.com/stuti) - stutimishra58@gmail.com
 
-Project Link: [https://github.com/yourusername/house-price-prediction](https://github.com/stuti2305/machine-learning)
+Project Link: [https://github.com/stuti/machine-learning](https://github.com/stuti2305/machine-learning)
